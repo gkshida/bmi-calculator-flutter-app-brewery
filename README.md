@@ -16,7 +16,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 ## What you will learn
 
-- [ ] How to use Flutter themes to create coherent branding. 
+- [x] How to use Flutter themes to create coherent branding. 
 - [ ] How to create multi-page apps using Flutter Routes and Navigator.
 - [ ] How to extract and refactor Flutter Widgets with a click of the button. 
 - [ ] How to pass functions as parameters and fields.
