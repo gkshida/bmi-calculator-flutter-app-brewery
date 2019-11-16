@@ -18,7 +18,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 - [x] How to use Flutter themes to create coherent branding. 
 - [ ] How to create multi-page apps using Flutter Routes and Navigator.
-- [ ] How to extract and refactor Flutter Widgets with a click of the button. 
+- [x] How to extract and refactor Flutter Widgets with a click of the button. 
 - [ ] How to pass functions as parameters and fields.
 - [ ] How to use the GestureDetector Widget to detect more than just a tap.
 - [ ] How to use custom colour palettes by using hex codes.
