@@ -14,7 +14,7 @@ const kSliderThumbShape = RoundSliderThumbShape(enabledThumbRadius: 15.0);
 const kSliderOverlayShape = RoundSliderOverlayShape(overlayRadius: 30.0);
 
 const kLabelTextStyle = TextStyle(
-  fontSize: 16.0,
+  fontSize: 14.0,
   color: Color(0xFF8D8E98),
 );
 
