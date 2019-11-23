@@ -26,7 +26,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - [x] Understand Dart Enums and the Ternary Operator.
 - [x] Understand Dart const and final.
 - [x] Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- [ ] Understand Dart Maps.
+- [x] Understand Dart Maps.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
