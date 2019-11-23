@@ -17,7 +17,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 ## What you will learn
 
 - [x] How to use Flutter themes to create coherent branding. 
-- [ ] How to create multi-page apps using Flutter Routes and Navigator.
+- [x] How to create multi-page apps using Flutter Routes and Navigator.
 - [x] How to extract and refactor Flutter Widgets with a click of the button. 
 - [x] How to pass functions as parameters and fields.
 - [x] How to use the GestureDetector Widget to detect more than just a tap.
@@ -26,6 +26,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - [x] Understand Dart Enums and the Ternary Operator.
 - [x] Understand Dart const and final.
 - [x] Learn about composition vs. inheritance and the Flutter way of creating custom UI.
+- [ ] Understand Dart Maps.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
