@@ -25,7 +25,7 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - [x] How to customise Flutter Widgets to achieve a specific design style.
 - [x] Understand Dart Enums and the Ternary Operator.
 - [x] Understand Dart const and final.
-- [ ] Learn about composition vs. inheritance and the Flutter way of creating custom UI.
+- [x] Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
